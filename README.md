@@ -6,7 +6,7 @@ An experiment in swarm intelligence written in Ruby
 Requirements
 ------------
 1. Gosu
-```ruby
+```
 sudo gem install gosu
 ```
 Note: you may also need to install additional packages to get Gosu up and running. Follow instructions
