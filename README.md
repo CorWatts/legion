@@ -7,7 +7,7 @@ Requirements
 ------------
 1. Gosu
 ```
-sudo gem install gosu
+gem install gosu
 ```
 Note: you may also need to install additional packages to get Gosu up and running. Follow instructions
 located at https://github.com/jlnr/gosu/wiki/
